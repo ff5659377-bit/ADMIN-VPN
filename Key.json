@@ -9,5 +9,11 @@
       "spammer_hwid_2"
     ]
   },
-  "keys": {}
+  "keys": {
+    "DP-9SBEC1": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-09-09"
+    }
+  }
 }
